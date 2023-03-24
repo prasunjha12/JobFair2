@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006017013961",
+    "project_id": "jobfair-5de7a",
+    "storage_bucket": "jobfair-5de7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006017013961:android:f28dd41346eb5352f88518",
+        "android_client_info": {
+          "package_name": "com.example.jobfair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006017013961-52b9uks2rs6a6c68j7dlmnrjou7uq7jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBay3aH599KeRoeknvdRB2ZA1ZZiBrz19M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006017013961-52b9uks2rs6a6c68j7dlmnrjou7uq7jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JobFair</string>
+    <string name="btn">Button</string>
+    <string name="welcome">Welcome</string>
+    <string name="details_dtabase">These are your details from our Database</string>
+    <string name="mail">MAIL</string>
+    <string name="unique_id">UNIQUE ID</string>
+</resources>
