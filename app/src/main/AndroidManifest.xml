@@ -12,6 +12,15 @@
         android:theme="@style/Theme.JobFair"
         tools:targetApi="31">
         <activity
+            android:name=".listViewpg"
+            android:exported="false" />
+        <activity
+            android:name=".webdev"
+            android:exported="false" />
+        <activity
+            android:name=".FirstActivity"
+            android:exported="false" />
+        <activity
             android:name=".WelcomeActivity"
             android:exported="false" />
         <activity

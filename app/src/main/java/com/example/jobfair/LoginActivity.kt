@@ -48,7 +48,7 @@ class LoginActivity : AppCompatActivity() {
                 val name = it.child("name").value
                 val userId = it.child("uniqueId").value
 
-                val intentWelcome = Intent(this, MainActivity::class.java)
+                val intentWelcome = Intent(this, webdev::class.java)
                 intentWelcome.putExtra(KEY1, email.toString())
                 intentWelcome.putExtra(KEY2, name.toString())
                 intentWelcome.putExtra(KEY3, userId.toString())

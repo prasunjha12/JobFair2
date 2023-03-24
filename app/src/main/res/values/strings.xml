@@ -5,4 +5,10 @@
     <string name="details_dtabase">These are your details from our Database</string>
     <string name="mail">MAIL</string>
     <string name="unique_id">UNIQUE ID</string>
+    <string name="task">TASK</string>
+    <string name="user_login">USER Login</string>
+    <string name="admin_login">ADMIN Login</string>
+    <string name="jobfair">JobFair</string>
+    <string name="domain">Select your Domain</string>
+    <string name="dev">DEVELOPMENT</string>
 </resources>
